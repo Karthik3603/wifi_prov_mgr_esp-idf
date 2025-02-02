@@ -1,0 +1,11 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "d:\\Softwares\\esp\\esp_idf",
+    "idf.toolsPathWin": "d:\\Softwares\\esp\\tools",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM6",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ]
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/CMakeFiles/bootloader
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/CMakeFiles/bootloader.rule
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/CMakeFiles/bootloader-complete.rule
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/stuff_I_might_ know/esp_idf_programs/wifi_prov_mgr/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
