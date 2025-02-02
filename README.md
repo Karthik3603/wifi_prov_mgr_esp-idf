@@ -23,10 +23,10 @@ A robust Wi-Fi provisioning solution for ESP32 devices that combines BLE-based p
 | Breadboard | 1 |
 
 ### Wiring Diagram
-```text
-ESP32 GPIO32 ───┬───▶ Button ▶ 3.3V
-                │
-                └─── 10KΩ Pulldown ▶ GND
+
+> ESP32 GPIO32 ───┬───▶ Button ▶ 3.3V
+  >               │
+    >             └─── 10KΩ Pulldown ▶ GND
 
 Find the code in 'main'-->'app_main.c'.
 
