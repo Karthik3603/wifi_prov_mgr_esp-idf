@@ -27,3 +27,13 @@ A robust Wi-Fi provisioning solution for ESP32 devices that combines BLE-based p
 ESP32 GPIO32 ───┬───▶ Button ▶ 3.3V
                 │
                 └─── 10KΩ Pulldown ▶ GND
+🧠 How It Works
+
+graph TD
+    A[Main App] --> B[Provisioning Manager]
+    A --> C[Wi-Fi Stack]
+    A --> D[Button Handler]
+    B --> E[BLE Transport]
+    B --> F[QR Generator]
+    D --> G[Debounce Logic]
+    C --> H[NVS Storage]
